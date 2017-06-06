@@ -1,3 +1,4 @@
+--1.1
 QMPlugin={}
 function QMPlugin.test(str)
 local arr={1,2,3}
